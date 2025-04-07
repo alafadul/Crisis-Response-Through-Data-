@@ -94,7 +94,7 @@ To analyze, visualize, and evaluate the U.S. government's fiscal and monetary re
 
 ## 📊 KPI Dashboard (Interactive)
 
-🔗 [View Tableau Dashboard](https://public.tableau.com/views/CrisisResponseThroughData/KPI?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 [View Tableau Dashboard]([https://public.tableau.com/views/CrisisResponseThroughData/KPI?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/views/Projec_17438738345270/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 Included Visuals:
 - KPI Scorecards for each crisis
 - Trend lines for all economic indicators
